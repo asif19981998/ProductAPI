@@ -1,0 +1,11 @@
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.deps.json
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.dll
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\bin\Debug\net8.0\ECommerce.Models.pdb
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfoInputs.cache
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.AssemblyInfo.cs
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.csproj.CoreCompileInputs.cache
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.dll
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\refint\ECommerce.Models.dll
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\ECommerce.Models.pdb
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.Models\obj\Debug\net8.0\ref\ECommerce.Models.dll

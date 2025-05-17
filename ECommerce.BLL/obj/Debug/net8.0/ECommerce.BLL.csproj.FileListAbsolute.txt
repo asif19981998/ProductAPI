@@ -1,0 +1,15 @@
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\bin\Debug\net8.0\ECommerce.BLL.deps.json
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\bin\Debug\net8.0\ECommerce.BLL.dll
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\bin\Debug\net8.0\ECommerce.BLL.pdb
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\bin\Debug\net8.0\ECommerce.Models.dll
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\bin\Debug\net8.0\ECommerce.Models.pdb
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerce.BLL.csproj.AssemblyReference.cache
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerce.BLL.AssemblyInfoInputs.cache
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerce.BLL.AssemblyInfo.cs
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerce.BLL.csproj.CoreCompileInputs.cache
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerc.A91174C8.Up2Date
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerce.BLL.dll
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\refint\ECommerce.BLL.dll
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ECommerce.BLL.pdb
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\ECommerce.BLL\obj\Debug\net8.0\ref\ECommerce.BLL.dll
