@@ -12,6 +12,7 @@ builder.Services.AddSingleton<IProductService, ProductService>();
 
 var app = builder.Build();
 
+
 app.UseMiddleware<GlobalExceptionMiddleware>();
 app.UseSwagger();
 app.UseSwaggerUI();

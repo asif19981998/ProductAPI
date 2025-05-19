@@ -52,3 +52,4 @@ D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\EcommerceApi\bin\Debug\net8
 D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\EcommerceApi\bin\Debug\net8.0\ECommerce.Models.dll
 D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\EcommerceApi\bin\Debug\net8.0\ECommerce.BLL.pdb
 D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\EcommerceApi\bin\Debug\net8.0\ECommerce.Models.pdb
+D:\Interview\Remote Work Task\Ecommerce\EcommerceApi\EcommerceApi\obj\Debug\net8.0\EcommerceApi.sourcelink.json

@@ -28,7 +28,6 @@ namespace EcommerceApi.Controllers
         public async Task<ProductCreateRequest> CreateProductAsync([FromBody] ProductCreateRequest product)
         {
             var response = await _productService.CreateProductAsync(product);
-            throw new Exception("An error occurred while creating the product.");
             return response;
         }
 
